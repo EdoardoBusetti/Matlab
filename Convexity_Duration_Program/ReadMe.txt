@@ -1,0 +1,2 @@
+Use the function "fConvexityDuration_Edo.m" to calculate the Internal Rate of Return, the Duration, the modified Duration and the Convexity of any number of assets.
+This version lets you only insert the data from prompt.
