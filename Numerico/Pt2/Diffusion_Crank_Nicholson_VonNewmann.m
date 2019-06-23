@@ -4,6 +4,12 @@ close all
 clear;
 clc
 
+% -alpha_(n-1,j+1) + (2 + 2alpha)u_(n,j+1) -alpha*u_(n+1,j+1) = 
+% = alpha u_(n-1,j) + (2 - 2alpha) u_(n,j) + alpha u_(n+1,j)
+
+
+
+
 % Parameters to define the diffusion equation and the range in space and time
 %       and to implement the Crank Nicholson Method
 
